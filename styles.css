@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.about {
+  background-color: #F8B195;
+  font-family: "Courier New";
+  text-align:center;
+}
+
+.pic {
+  background-color: #F67280;
+  padding: 20px;
+}
+
+.contact {
+  padding: 20px;
+  background-color: #C06C84;
+  font-family: "Courier New";
+  text-align:center;
+}
+a{
+  color: black;
+}
+.content {
+  padding: 20px;
+  background-color: #6C5B7D;
+  font-family: "Courier New";
+
+}
+.h1{
+    font-size: 200px;
+}
